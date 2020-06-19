@@ -1,0 +1,16 @@
+{
+  "name": "tree",
+  "version": "1.0.0",
+  "description": "Create UI for rendering a tree",
+  "main": "TreeCreator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc -p .",
+    "html": "copy src\\Tree\\index.html build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.12.1"
+  }
+}
